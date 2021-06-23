@@ -1,3 +1,4 @@
+## 찬구의 코드
 ```java
 class Main {
   public static void main(String[] args) {
@@ -5,3 +6,6 @@ class Main {
   }
 }
 ```
+
+## 현영의 코드
+
